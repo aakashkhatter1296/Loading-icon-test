@@ -17,6 +17,6 @@
         android:layout_width="200dp"
         android:layout_height="200dp"
         app:lottie_loop="true"
-        app:lottie_fileName="loading2.json"
+        app:lottie_fileName="loading-animation.json"
         app:lottie_autoPlay="true" />
 </RelativeLayout>
